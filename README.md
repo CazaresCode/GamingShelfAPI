@@ -78,4 +78,4 @@ C THUNDER Devs consist of:
 
 
 ## License
-[MIT LICENCE](https://github.com/CazaresCode/GoldBadge_Challenges/commit/0d2bb8e4a015294966fd56a476518ecd4462e845)
+[MIT LICENCE](https://github.com/CazaresCode/GamingShelfAPI/blob/develop/LICENSE.txt)
