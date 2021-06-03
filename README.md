@@ -35,7 +35,6 @@ The Web API allows you to store and manage your board gaming collection. The API
 3. Edit one board game in your collection.
 4. Delete one board game from your collection. 
 
-#### Game Entity Model
 The following properties include:
 - Title
 - MinOfPlayers
