@@ -57,7 +57,6 @@ namespace GamingShelf.Data
     }
 
 
-
     public class IdentityUserRoleConfiguration : EntityTypeConfiguration<IdentityUserRole>
     {
         public IdentityUserRoleConfiguration()
