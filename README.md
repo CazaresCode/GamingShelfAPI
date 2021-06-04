@@ -1,7 +1,7 @@
 # Gaming Shelf API
-The Gaming Shelf API allows the user to manage and store their board gaming collection into the database. This product is brought you by the C THUNDER Devs, LLC. *Just kidding, we are not a LLC... yet.*
+The Gaming Shelf API was built using the .NET Web API Framework. It allows the user to manage and store their board gaming collection into the database. This product is brought you by the C THUNDER Devs, LLC. *Just kidding, we are not a LLC... yet.*
 
-This app satisifies the requirements for the Agile Group Project assignment in Blue Badge.
+This repository satisifies the requirements for the Agile Group Project assignment in Blue Badge.
 
 
 ## TABLE OF CONTENTS:
@@ -15,7 +15,7 @@ This app satisifies the requirements for the Agile Group Project assignment in B
 
 
 ## Technologies Used
-- Visual Studio 2019 Community
+- Visual Studio 2019 Community: .NET Web API Framework
 - C#, HTML, JavaScript
 - GitHub
 - Postman
@@ -29,7 +29,7 @@ We used Postman to access our database. However, feel free to use any API develo
 ## Usage
 
 #### Gaming Shelf API
-The Web API allows you to store and manage your board gaming collection. The API will allow you to:
+The Gaming Shelf API allows you to store and manage your board gaming collection. The API will allow you to:
 1. Post a new board game into your collection.
 2. Retrieve all the board games in your collection.
 3. Edit one board game in your collection.
